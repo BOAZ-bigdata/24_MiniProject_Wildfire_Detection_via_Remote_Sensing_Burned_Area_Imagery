@@ -1,0 +1,1 @@
+# 24_MiniProject_Wildfire_Detection_via_Remote_Sensing_Burned_Area_Imagery
